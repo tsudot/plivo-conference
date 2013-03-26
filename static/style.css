@@ -1,0 +1,7 @@
+body {background: #f2f2f2 url(image/bg.png);color: #4d4d4d; font-family: Lato, 'Asap'; -webkit-font-smoothing: antialiased;}
+.hero-unit {background: #e2e2e2 url(image/plivo-tag-bg.png); height:220px;}
+.hero-unit h1 {font-size: 80px;}
+.hero-unit .logo {margin: -30px 0 0 60px;}
+
+.uber-heading h1 {font-size: 45px; color: #78af00; }
+.circular {width:40px; height:40px; border-radius:150px; -webkit-border-radius:150px; -moz-border-radius: 150px; box-shadow: 0 0 8px rgba(0, 0, 0, .8); -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8); -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8); margin: 0 10px 10px 0;}
